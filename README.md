@@ -5,10 +5,10 @@
 - 🔭 I am currently looking to do a web developer internship.
 - 🌱 I’m currently learning Laravel and Vue.
 - 📫 How to reach me webabel@protonmail.com.
-- ⚡ I like to compose music.
+- ⚡ I like to compose music of any style with FL STUDIO.
 
 # You can find me🌍:
-- [Web](https://abelsoler.es/)
+- [My Web](https://abelsoler.es/)
 - [Linkedin](https://www.linkedin.com/in/abel-soler-8ba374a0/)
 
 # 
