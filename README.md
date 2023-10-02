@@ -3,14 +3,14 @@
 
 
 <h1 align="center">Hi 👋, I'm Abel Soler</h1>
-<h3 align="center">Welcome to my profile! If you want to know more about the projects I have worked on, feel free to take a look at my Repositories. I am a web developer in training, highly motivated and with great analytical skills. I have essential abilities to approach problems with a methodical approach, self-learning ability, and attention to detail. I am particularly creative when it comes to tackling any project, and I enjoy composing music as a hobby. I prefer to focus on Frontend development, and I am eager to continue learning in this area.</h3>
+<h3 align="center">Welcome to my profile! If you want to know more about the projects I've worked on, feel free to take a look at my Repositories. I am a recent graduate in Web Application Development, highly motivated and with great analytical skills. I have essential skills to approach problems with a methodical approach, self-learning ability and attention to detail. I am particularly creative when approaching any project, and enjoy composing music as a hobby. With more experience in backend development using Laravel, but with more inclination towards Frontend development, I am eager to continue learning in these areas.</h3>.
 
 <div class="flex-container container">
   <div align="left">
     <h3>About Me:</h3>
     <ul>
-      <li>🔭 I am currently looking to do <strong>a web developer internship</strong>.</li>
-      <li>🌱 I’m currently learning <strong>Laravel and Vue</strong>.</li>
+      <li>🔭 I have obtained a DAW degree and currently <strong>looking for my first job as a Junior Programmer</strong>.</li>
+      <li>🌱 Development skills in <strong>Laravel and Vue</strong>.</li> 
       <li>📫 How to reach me: <strong>webabel@protonmail.com</strong></li>
       <li>⚡ Fun fact: <strong>I like to compose music of any style with FL STUDIO</strong>.</li>
     </ul>
