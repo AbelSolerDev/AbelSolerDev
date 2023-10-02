@@ -1,7 +1,5 @@
 ![me](https://user-images.githubusercontent.com/102069966/236448201-51020e5b-f1b8-4b61-8a05-6add265b023c.png)
 
-
-
 <h1 align="center">Hi 👋, I'm Abel Soler</h1>
 <h3 align="center">Welcome to my profile! If you want to know more about the projects I've worked on, feel free to take a look at my Repositories. I am a recent graduate in Web Application Development, highly motivated and with great analytical skills. I have essential skills to approach problems with a methodical approach, self-learning ability and attention to detail. I am particularly creative when approaching any project, and enjoy composing music as a hobby. With more experience in backend development using Laravel, but with more inclination towards Frontend development, I am eager to continue learning in these areas.</h3>.
 
@@ -9,14 +7,13 @@
   <div align="left">
     <h3>About Me:</h3>
     <ul>
-      <li>🔭 I have obtained a DAW degree and currently <strong>looking for my first job as a Junior Programmer</strong>.</li>
+      <li>🔭 I have obtained the title of DAW and currently <strong>looking for my first job as a Junior Programmer</strong>.</li>
       <li>🌱 Development skills in <strong>Laravel and Vue</strong>.</li> 
       <li>📫 How to reach me: <strong>webabel@protonmail.com</strong></li>
       <li>⚡ Fun fact: <strong>I like to compose music of any style with FL STUDIO</strong>.</li>
     </ul>
   </div>
 </div>
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -58,15 +55,6 @@
 
  <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abelsolerdev" alt="abelsolerdev" /></p>
 
-
-
-
-
-
-
-
-
-
 <!--
 <h3 align="left">Connect with me:</h3>
   <p align="left">
@@ -92,7 +80,7 @@
 - [My Web](https://abelsoler.es/)
 - [Linkedin](https://www.linkedin.com/in/abel-soler-8ba374a0/)
 
-# 
+#
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abelsolerdev&show_icons=true&locale=en&layout=compact" alt="abelsolerdev" /></p>
 <p><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=abelsolerdev" alt="abelsolerdev" /></p>
 
